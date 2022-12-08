@@ -8,3 +8,4 @@ curl -o "src/main/resources/banner.png" "https://raw.githubusercontent.com/PokeA
 #color
 spring.output.ansi.enabled=always
 
+https://github.com/spring-projects/spring-boot/pull/4647/files
